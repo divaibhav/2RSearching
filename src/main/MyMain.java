@@ -15,4 +15,4 @@ public class MyMain {
     }
 }
 //Find the index of nth occurrence of searchElement,
-// if not present or only have leass  occurrence, return -1
+// if not present or only have less  occurrence, return -1
